@@ -1,0 +1,2 @@
+# SMS-Spam-Classification
+Extracted data from a public set of SMS labeled messages collected from open sources on the Internet.   Implemented six spam classification algorithms on this data using Python Scikit-Learn and NumPy.   Evaluated the algorithms by constructing a confusion matrix for each algorithm on python.   Naive Bayes and RBF SVM were found to be the most efficient algorithms for SMS spam detection.
